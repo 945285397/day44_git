@@ -9,5 +9,6 @@ public class FirstClass {
     }
     public void test(){
         System.out.println("hello world");
+        System.out.println("克隆之后的修改");
     }
 }
